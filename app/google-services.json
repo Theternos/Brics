@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "483131060448",
+    "firebase_url": "https://ternos-fe644-default-rtdb.firebaseio.com",
+    "project_id": "ternos-fe644",
+    "storage_bucket": "ternos-fe644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483131060448:android:74d4ae2416fb65c1dce085",
+        "android_client_info": {
+          "package_name": "com.example.android.newsfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483131060448-ietimpbhi8icm0eqvu7i4tmdcqthlj59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRJBi_0bsROievjX4p1KMHXMTcF7mNFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483131060448-ietimpbhi8icm0eqvu7i4tmdcqthlj59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483131060448:android:08bfb33efaacf0a8dce085",
+        "android_client_info": {
+          "package_name": "com.example.ternos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483131060448-ietimpbhi8icm0eqvu7i4tmdcqthlj59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRJBi_0bsROievjX4p1KMHXMTcF7mNFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483131060448-ietimpbhi8icm0eqvu7i4tmdcqthlj59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
